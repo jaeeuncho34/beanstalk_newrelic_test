@@ -1,5 +1,5 @@
 # beanstalk_newrelic_test
-| AWS elastic beanstalk에 newrelic agent 설치하기
+> AWS elastic beanstalk에 newrelic agent 설치하는 방법   
 참고: https://docs.newrelic.com/kr/docs/infrastructure/install-infrastructure-agent/config-management-tools/configure-infrastructure-agent-aws-elastic-beanstalk/
 
 - 샘플 코드 다운로드
