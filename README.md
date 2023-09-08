@@ -6,7 +6,8 @@
     - nodejs 에러나서 python으로 다운로드
 - 코드 안에 `.ebextensions/newrelic.config` 파일 생성 후 압축
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2768be57-ef1e-4a18-9b9a-4c978c2a6576/176ca717-8d1e-45f2-944a-c9c7bdb3e0ef/Untitled.png)
+![image](https://github.com/jaeeuncho34/beanstalk_newrelic_test/assets/60213218/5661511b-0457-43d3-9fca-cbfdad1e1b65)
+
 
 ```yaml
 files:
